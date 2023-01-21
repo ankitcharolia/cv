@@ -3,7 +3,7 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -15,8 +15,8 @@ sidebar:
     email: ankitcharolia@gmail.com
     phone: +49-17642909448
     timezone: Central European Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    citizenship: Indian
+    website: ankitcharolia.com #do not add http://
     linkedin: ankitcharolia
     xing: ankitcharolia
     github: ankitcharolia
@@ -199,23 +199,34 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: GCP/AWS
+        level: 70%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Kubernetes
+        level: 80%%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Terraform/Terragrunt
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: ArgoCD/Argo-Rollout
+        level: 90%
+
+      - name: Istio
+        level: 80%
+
+      - name: Kube Prometheus Stack - Prometheus/Grafana/AlertManager
+        level: 80%
+
+      - name: Ansible
+        level: 80%
+
+      - name: Helm
+        level: 80%
+
+      - name: Docker
+        level: 80%
+
+
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://www.linkedin.com/in/ankitcharolia/" target="_blank" rel="nofollow">Ankit Charolia</a>
