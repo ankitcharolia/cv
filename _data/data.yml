@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://drive.google.com/file/d/18bnginJ0jjuu7L7TkmNEingoP-b8EPas/view?usp=sharing
 
     languages:
       title: Languages
@@ -200,31 +200,31 @@ skills:
 
     toolset:
       - name: GCP/AWS
-        level: 70%
+        level: 85%
 
       - name: Kubernetes
-        level: 80%%
+        level: 90%
 
       - name: Terraform/Terragrunt
-        level: 85%
+        level: 90%
 
       - name: ArgoCD/Argo-Rollout
         level: 90%
 
       - name: Istio
-        level: 80%
+        level: 85%
 
-      - name: Kube Prometheus Stack - Prometheus/Grafana/AlertManager
-        level: 80%
+      - name: Prometheus/Grafana/AlertManager
+        level: 85%
 
       - name: Ansible
-        level: 80%
+        level: 90%
 
       - name: Helm
-        level: 80%
+        level: 90%
 
       - name: Docker
-        level: 80%
+        level: 90%
 
 
 
