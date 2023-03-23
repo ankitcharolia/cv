@@ -159,10 +159,6 @@ p {
   }
 }
 
-main-wrapper .section .summary {
-  text-align: justify;
-}
-
 .main-wrapper {
   grid-column: span 7;
   background: #fff;
@@ -175,6 +171,11 @@ main-wrapper .section .summary {
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
+  }
+  .summary-section {
+    .summary {
+      text-align: justify;
+    }
   }
   .section {
     margin-bottom: 60px;
