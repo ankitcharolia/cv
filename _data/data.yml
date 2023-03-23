@@ -56,12 +56,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      A DevOps Engineer with over 10 years of experience in automating application deployments, improving the scalability, availability and performance
+      of applications, and managing cloud infrastructure. Experienced in managing and troubleshooting distributed systems, performing server and application
+      monitoring, and integrating DevOps practices. Possess strong problem solving, organizational, and communication skills. Proven ability to develop, implement
+      and maintain CI/CD pipelines, containerization and micro-service architecture. Proven ability to work collaboratively with cross-functional teams to ensure the successful completion of
+      projects. To secure a devops engineer role in an innovative and forward-thinking organization where I can utilize my knowledge and experience to maximize operational efficiency.
+
 education:
     title: Education
     info:
@@ -105,8 +105,6 @@ experiences:
         time: October, 2016 - July, 2022
         company: Lotto24 AG (Formerly known as eSailors GmbH), Hamburg, Germany
         details: |
-
-          Lotto24 (Formerly known as eSailors Ltd) is one of the best company in gambling industry in Germany. 
 
           Role: 
         
@@ -210,14 +208,14 @@ experiences:
       
           • Working with windows DNS server and basic active directory operations.
 
-Certifications:
+publications:
     title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: CCNA
+      - title: CCNA (Issued Apr 2012 - Expired Apr 2015)
         link: "#"
         authors: Cisco
         conference: Credential ID CSCO12141550
