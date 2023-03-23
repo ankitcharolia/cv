@@ -81,83 +81,133 @@ experiences:
         company: FFW Deutschland GmbH, Hamburg, Germany
         details: |
           Projects:
+
           • AWS to GCP Migration (Client: ZDF)
 
           Tasks:
+
           • Automated microservices deployment using ArgoCD/Argo-Rollout
+
           • Setup Infrastructure using Terraform/Terragrunt
+          
           • Automated certificate renewal with Cert Manager
+          
           • External Secret Operator integration with Google Secret Manager
+          
           • Setup Prometheus/Grafana using Kube-Prometheus-Stack helm chart.
+          
           • AWS RDS to Google Cloud SQL Database migration (Postgres and MySQL)
+          
           • Use cloud-KMS to encrypt secrets and store it to Git repositories and Google Secret Manager (Fully automated with Terragrunt/Terraform)
+          
           • Setup Gitlab CI pipeline for application Dockerization and Terraform repository to deploy Infrastructure changes.
       - role: DevOps Engineer
         time: October, 2016 - July, 2022
         company: Lotto24 AG (Formerly known as eSailors GmbH), Hamburg, Germany
         details: |
+
           Lotto24 (Formerly known as eSailors Ltd) is one of the best company in gambling industry in Germany. 
 
           Role: 
+        
           Managing 50+ instances, and 10+ database instances on VMware.
+        
           Supporting in-house development team to migrate services to Kubernetes and troubleshooting.
 
           Tools: Ansible, Jenkins, Nginx, GitHub, Confluence, JIRA , Splunk, Kafka, Cassandra, Redis, Datadog, Aamazon Web Services, MariaDB Galera cluster,MySQL, Kubernetes, Helm (Kubernetes Package Manager), Docker, VictorOps, Slack, Splunk
 
           Activities:
+        
           • Infrastructure automation with Ansible.
+        
           • Working with VMware vSphere/vCenter.
+        
           • P2V (Physical to Virtual) migration in VMware.
+        
           • Managing GitHub Enterprise appliance with automated backup solution.
+        
           • Setup Kafka/Zookeeper in cluster mode.
+        
           • Setup Cassandra docker container in cluster mode.
+        
           • Setup Jenkins master/slave for CI/CD pipeline.
+        
           • Setup and manage Kubernetes cluster using kubespray upspream repository.
+        
           • Deploy microservices to kubernetes cluster.
+        
           • Setup Splunk indexer and searchhead server in cluster mode.
+        
           • Logging: Forward logs to Splunk server using Splunkforwarder.
+        
           • Monitoring: Host/Service integration with Datadog and setup alerts via VictorOps.
+        
           • Automated High Available wordpress server setup.
+        
           • AWS: Supported team to automate AWS infrastructure using Ansible modules.
+        
           • Support other teams for troubleshooting.
       - role: DevOps Engineer
         time: March, 2016 - September, 2016
         company: Cloud and Heat Technologies, Dresden, Germany
         details: |
+        
           DevOps tools: Docker, Vagrant, Chef, Packer, Git.
+        
           Continuous Integration: Jenkins
+        
           Git repository management system: Gitlab 
+        
           Ticket management system : Redmine
+        
           Languages: Ruby and Shell Scripting
 
           Activities: 
+        
           • create/modify cookbooks and testing cookbooks using kitchen.
+        
           • Add new feature by rolling out recipes to deployments.
+        
           • Auto deployment of Docker container. 
+        
           • Supporting Customers to troubleshooting.
+      
       - role: Student Internship
         time: April, 2015 - February, 2016
         company: Datenwerk GmbH, Frankfurt, Germany
         details: |
+        
           • Openstack Kilo test deployment in Ubuntu (Manually deployed Openstack)
+        
           • Installation and configuration of active/active cluster with HAProxy and Keepalived
+        
           • Installation and configuration of active/active RabbitMQ and Galera MySQL (MariaDB) cluster.
+        
           • Integration of CEPH storage with Openstack Cinder and Glance.
+        
           • Libvirt integration with CEPH Storage and boot VM from CEPH.
+        
           • Basic Shell scripting
+        
           • Knowledge about Linux Bonding and PXE Network booting with Linux.
 
           Thesis Title: “Technical Evaluation of different solutions for Content Repository and Cloud Storage.”
           Thesis includes implementation of CEPH and Hadoop Storage cluster. We have tested both file system based on different aspects like Stability, Performance, High availability and Application has been developed to achieve ease of management using API.
+        
           Used Technology: Java Maven, Junit and SVN.
+        
           API Implementation: Spring Framework for Apache Hadoop and CEPH Rados-Java API
       - role: DevOps Engineer
         time: November, 2014 - January, 2015
         company: PP-iT GmbH, Munich, Germany
         details: |
+      
           • Deploying Infrastructure as a Service Cloud Platform (Mirantis Openstack)
+      
           • Deploying Mirantis Openstack using of Mirantis Fuel master Node.
+      
           • Working with VMware vSphere 5.5 HA/DRS cluster and Virtual Machine Operation. • MS-SQL installation and creation of database.
+      
           • Working with windows DNS server and basic active directory operations.
 
 Certifications:
