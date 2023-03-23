@@ -33,6 +33,14 @@ p {
   line-height: 1.5;
 }
 
+.main-wrapper {
+	.summary-section {
+		.summary {
+			text-align: justify;
+		}
+	}
+}
+
 .wrapper {
   display: grid;
   grid-template-columns: repeat(10, 1fr);
@@ -171,11 +179,6 @@ p {
     position: relative;
     margin-top: 0;
     margin-bottom: 20px;
-  }
-  .summary-section {
-    .summary {
-      text-align: justify;
-    }
   }
   .section {
     margin-bottom: 60px;
