@@ -159,6 +159,10 @@ p {
   }
 }
 
+main-wrapper .section .summary {
+  text-align: justify;
+}
+
 .main-wrapper {
   grid-column: span 7;
   background: #fff;
@@ -174,9 +178,6 @@ p {
   }
   .section {
     margin-bottom: 60px;
-    .summary {
-      text-align: justify;
-    }
   }
 
   .experiences-section,
